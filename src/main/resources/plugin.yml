@@ -1,0 +1,8 @@
+name: HardcoreMultiplayer
+version: 1.0
+main: Kassis.hardcoreMultiplayer.HardcoreMultiplayer
+api-version: 1.21
+commands:
+  hc:
+    description: Toggle shared hardcore mode
+    usage: /hc <enable | disable | reset | attempts | time>
